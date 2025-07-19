@@ -6,4 +6,4 @@ requirements
 - NumPy
 - Ultralytics - YOLO (model Yolo8n-seg)
 ## quick start
-Запустить файл main
+Запустить файл main (измените путь до фотографии)
